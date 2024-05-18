@@ -6,7 +6,7 @@ const About = () => {
     <div className="text-black dark:text-white">
       <br />
       <h1 className={`${styles.title} 800px:!text-[45px]`}>
-        What is <span className="text-gradient">E-Learning?</span>
+        What is <span className="text-gradient">Studify?</span>
       </h1>
 
       <br />
@@ -55,7 +55,7 @@ const About = () => {
           sky&apos;s the limit.
         </p>
         <br />
-        <span className="text-[22px]">Shahriarsajeeb&apos;s</span>
+        <span className="text-[22px]">Yash Raj Dargan</span>
         <h5 className="text-[18px] font-Poppins">
           Founder and CEO of E-learning
         </h5>
