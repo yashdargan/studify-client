@@ -73,7 +73,7 @@ const Footer = (props: Props) => {
             <ul className="space-y-4">
               <li>
                 <Link
-                  href="https://www.youtube.com/channel/UCHz6Sne9splmvm-q2w1_HWQ"
+                  href="https://www.youtube.com/"
                   className="text-base text-black dark:text-gray-300 dark:hover:text-white"
                 >
                   Youtube
@@ -81,7 +81,7 @@ const Footer = (props: Props) => {
               </li>
               <li>
                 <Link
-                  href="https://www.instagram.com/shahriar_sajeeb_/"
+                  href="https://www.instagram.com/"
                   className="text-base text-black dark:text-gray-300 dark:hover:text-white"
                 >
                   Instagram
@@ -89,7 +89,7 @@ const Footer = (props: Props) => {
               </li>
               <li>
                 <Link
-                  href="https://www.github.com/shahriarsajeeb"
+                  href="https://www.github.com/yashdargan"
                   className="text-base text-black dark:text-gray-300 dark:hover:text-white"
                 >
                   github
